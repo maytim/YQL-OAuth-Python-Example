@@ -1,5 +1,5 @@
 # YQL-OAuth-Example
-This is a simple example of how to use OAuth to request a YQL yahoo.finance.historicaldata query. 
+This is a simple example of how to use OAuth to request a YQL yahoo.finance.historicaldata query when you don't have any permissions. 
 
 Useful URL Resources:
 
